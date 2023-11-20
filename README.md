@@ -9,8 +9,18 @@ CSE <br> B-section <br>
   </head>
   <body>
   <p>Hello this is priyanka and this is my repository </p>
-   Here we are using <b> HTML </b> <u>tags</u>
+   Here we are using <b> HTML </b> <br>
    <h> git hub </h>
+   <ol>
+    <li>c programming</li>
+    <li>python</li>
+    <li>java</li>
+   </ol>
+   <uo>
+    <li>Html</li>
+    <li>python</li>
+   </uo>
+   
   </body>
  </html>
  
