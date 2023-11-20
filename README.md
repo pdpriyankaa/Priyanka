@@ -7,7 +7,7 @@ CSE <br> B-section
 <!-- head tag -->
   
 <head> 
-    </title> git hub</title> 
+    
 </head> 
 <!-- Body tag -->
   
