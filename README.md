@@ -7,18 +7,17 @@ CSE <br> B-section
 <!-- head tag -->
   
 <head> 
-    <title>Welcom to Geeksforgeeks</title> 
+    </title></title> 
 </head> 
 <!-- Body tag -->
   
 <body> 
-    <h2>Geeksforgeeks</h2> 
+    <h2>project management with git</h2> 
     <p> 
-        A Computer Science Portal for Geeks 
+         For Computer Science Stream 
     </p> 
     <p> 
-        Please change the code and click the 
-        Run the button to see the changes. 
+        run the program 
     </p> 
 </body> 
 </html> 
