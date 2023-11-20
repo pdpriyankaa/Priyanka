@@ -19,7 +19,6 @@ CSE <br> B-section <br>
     <li>Html</li>
     <li>python</li>
    </uo>
-   
   </body>
  </html>
  
