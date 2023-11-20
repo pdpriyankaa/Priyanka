@@ -9,8 +9,7 @@ CSE <br> B-section <br>
   </head>
   <body>
   <p>Hello this is priyanka and this is my repository </p>
-   Here we are using <b> HTML </b> <br>
-   <h> git hub </h>
+  Here we are using <b> HTML </b> <br>
    <ol>
     <li>c programming</li>
     <li>python</li>
